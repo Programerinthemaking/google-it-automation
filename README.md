@@ -1,6 +1,7 @@
 # Google-it-automation
 This repository is written for reference and self-documentation purpose.
     
+[Coursera-Google IT Automation with Python.pdf](https://github.com/Programerinthemaking/google-it-automation/files/6773292/Coursera-Google.IT.Automation.with.Python.pdf)
 
 
 About this Professional Certificate
